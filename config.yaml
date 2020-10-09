@@ -1,0 +1,15 @@
+---
+flask_config:
+  SECRET_KEY:super_secreat_key
+  flask_app:DEV
+  flask_env:DEBUG
+frontend:
+  ip:localhost
+  port:5000
+scraper:
+  ip:localhost
+  port:5001
+ai:
+  ip:localhost
+  port:5002
+...
